@@ -5,6 +5,9 @@ This was created to test my skills with Javascript
 project status: in progress
 - can solve basic puzzles
 
+issues
+ISSUE can't solve beyond basic puzzles
+
 currently uses two strategies to solve the puzzle
 1. Basic elimination
    -  loops through each cell of the puzzle
